@@ -15,7 +15,6 @@ public class L404SumOfLeftLeaves {
         sum += sum(node.right);
 
         return sum;
-        }
     }
 
     private class TreeNode {
